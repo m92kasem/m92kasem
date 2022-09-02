@@ -29,7 +29,7 @@
 <a href="https://github.com/m92kasem" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/mahmoud-kasem-6a382a139" target="_blank">
+<a href="https://www.linkedin.com/in/mahmoud-kasem" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/mahmoud.kasem.754570" target="_blank">
