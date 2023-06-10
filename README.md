@@ -23,7 +23,7 @@
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=m92kasem&show_icons=true" alt="m92kasem" />
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m92kasem&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m92kasem&hide=powershell8&layout=compact" />
 
 ## Connect with me  
 <div align="center">
