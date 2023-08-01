@@ -11,7 +11,7 @@
 - 👨‍💻 I'm currently studying for a **bachelor's in IT and Information Systems**
 - 🌱 I’m currently learning **Vue native**
 - 👨‍💻 All of my projects are available at [https://github.com/m92kasem](https://github.com/m92kasem)
-- 💬 Ask me about **Flask, Spring & Vue.js**
+- 💬 Ask me about **Java, Python**
 - 📫 How to reach me *m92kasem@gmail.com*
 - ⚡ Fun fact **Coffee over anything!!**
 
