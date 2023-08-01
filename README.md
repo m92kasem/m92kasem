@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m92kasem" alt="Mahmoud" /> </p>
 
-- 👨‍💻 I'm currently studying for a **bachelor's in IT and Information Systems**
+- 👨‍💻 I have a **bachelor's degree in IT and Information Systems**
 - 🌱 I’m currently learning **Vue native**
 - 👨‍💻 All of my projects are available at [https://github.com/m92kasem](https://github.com/m92kasem)
 - 💬 Ask me about **Java, Python**
