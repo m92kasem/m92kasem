@@ -20,10 +20,10 @@
 
 ## 🚀 My Featured Projects
 
+
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| ** Crypto Portfolio Tracker ** | <br>  | |  <br> [**🌐 Live Demo**](https://kasemcrp.netlify.app/) |
-
+| **Crypto Portfolio Tracker** | Track cryptocurrency holdings, profits/losses. | ASP.NET Core, Vue.js, Firebase, TailwindCSS, PostgreSQL/Neon  | [**🌐 Live Demo**](https://kasemcrp.netlify.app/) · [**📂 Repo**](https://github.com/m92kasem/crypto-tracker) |
 
 ### Tech Stack
 <p align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
